@@ -1,0 +1,92 @@
+{
+    "images": [
+      {
+        "src": "img/comodines/000.png",
+        "description": "???"
+      },
+      {
+        "src": "img/comodines/001.png",
+        "description": "El jugador recibe una vida extra"
+      },
+      {
+        "src": "img/comodines/002.png",
+        "description": "Compra un objeto en tienda especial"
+      },
+      {
+        "src": "img/comodines/003.png",
+        "description": "Revive un pokemon"
+      },
+      {
+        "src": "img/comodines/004.png",
+        "description": "Vende 10 caramelos y quédate con el dinero"
+      },
+      {
+        "src": "img/comodines/005.png",
+        "description": "Vuelve a una ruta y captura al primer pokemon"
+      },
+      {
+        "src": "img/comodines/006.png",
+        "description": "Skipea hasta 3 veces el primero pokemon de ruta"
+      },
+      {
+        "src": "img/comodines/007.png",
+        "description": "Compra un objeto curativo (no revivir)"
+      },
+      {
+        "src": "img/comodines/008.png",
+        "description": "Escudo anti trampas"
+      },
+      {
+        "src": "img/comodines/009.png",
+        "description": "Escudo anti trampas con rebote a otro"
+      },
+      {
+        "src": "img/comodines/010.png",
+        "description": "Escoge la naturaleza de un pokemon para torneo"
+      },
+      {
+        "src": "img/comodines/011.png",
+        "description": "Decide quién vende un objeto a tu elección"
+      },
+      {
+        "src": "img/comodines/012.png",
+        "description": "Quita una vida a alguien de tu elección"
+      },
+      {
+        "src": "img/comodines/013.png",
+        "description": "Alguien debe jugar solo con 5 pokemon esta semana"
+      },
+      {
+        "src": "img/comodines/014.png",
+        "description": "Quítate una vida, pero también quitas 1 a un rival"
+      },
+      {
+        "src": "img/comodines/015.png",
+        "description": "1 Rival liber a un pokemon al azar de 3 que tu elijas"
+      },
+      {
+        "src": "img/comodines/016.png",
+        "description": "Da una vida a otro participante"
+      },
+      {
+        "src": "img/comodines/017.png",
+        "description": "Otro jugador puede comprar 1 objeto curativo"
+      },
+      {
+        "src": "img/comodines/018.png",
+        "description": "Pierde una vida y dásela a otro"
+      },
+      {
+        "src": "img/comodines/019.png",
+        "description": "'Bendición celestial' Obtienes inmunidad en 1 combate"
+      },
+      {
+        "src": "img/comodines/020.png",
+        "description": "Obtienes 3 vidas y una para dos amigos"
+      },
+      {
+        "src": "img/comodines/021.png",
+        "description": "Obtienes 1 tiro de ruleta extra"
+      }
+    ]
+  }

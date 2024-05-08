@@ -287,6 +287,11 @@
 }
 
 @media (min-width: 320px) and (max-width: 480px) {
+
+  #lightboxOverlay{
+    width: 100%;
+  }
+
   .bg-inverse {
     background: #191c1e;
   }
